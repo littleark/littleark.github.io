@@ -1,0 +1,10 @@
+name: "littleark"
+description: "just a try with jekyll"
+
+paginate: 10
+
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+encoding: utf-8
